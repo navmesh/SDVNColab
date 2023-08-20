@@ -9,5 +9,6 @@ aria2c --continue --console-log-level=error -c -x 16 -s 16 -k 1M http://stabledi
 aria2c --continue --console-log-level=error -c -x 16 -s 16 -k 1M http://stablediffusion.vn/wp-content/uploads/Colab/v2/fullver/exvideo.txt -d /content/command
 aria2c --continue --console-log-level=error -c -x 16 -s 16 -k 1M http://stablediffusion.vn/wp-content/uploads/Colab/v2/fullver/extest.txt -d /content/command
 aria2c --continue --console-log-level=error -c -x 16 -s 16 -k 1M http://stablediffusion.vn/wp-content/uploads/Colab/v2/drive/driveex.txt -d /content/command
+aria2c --continue --console-log-level=error -c -x 16 -s 16 -k 1M http://stablediffusion.vn/wp-content/uploads/Colab/v2/drive/comfynote.txt -d /content/command
 
 
